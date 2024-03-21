@@ -1,11 +1,11 @@
 ### ✨&nbsp; About Me
 
-I am a Python and C# Unity Developer. I am also a student of computer security and a participant in various CTF competitions.
+I am a Python and C# Unity Developer. 
 
 - 🔭 I’m currently working on something cool 👻
 - 🌱 I’m currently learning Python and Go
 - 💬 Ask me about anything related to C#, Unity, Zenject, ECS, Python
-- ⚡ Fun fact: in my ctf team I do cryptography, I also play Rocket League
+- ⚡ Fun fact: I play Rocket League
 
 ### :hammer_and_wrench: Languages and Tools :
 
