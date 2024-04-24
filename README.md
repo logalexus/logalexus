@@ -3,9 +3,9 @@
 I am a Python and C# Unity Developer. 
 
 - 🔭 I’m currently working on something cool 👻
-- 🌱 I’m currently learning Python and Go
+- 🌱 I’m currently learning Python, Go, DevOps
 - 💬 Ask me about anything related to C#, Unity, Zenject, ECS, Python
-- ⚡ Fun fact: I play Rocket League
+- ⚡ Fun fact: in my ctf team "SIGAN" I do cryptography, I also play Rocket League
 
 ### :hammer_and_wrench: Languages and Tools :
 
