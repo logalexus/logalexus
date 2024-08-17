@@ -21,3 +21,6 @@ I am a Python and C# Unity Developer.
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GitLab-Dark.svg" height="40" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" height="40" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" height="40" />&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" height="40" />&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" />&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Terraform-Dark.svg" height="40" />&nbsp;
